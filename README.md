@@ -15,7 +15,7 @@ This is a simple REST API built with **Node.js** and **Express** that checks whe
 ## 🛠️ Installation & Setup
 
 ### 1. Clone the Repository
-```bash
+
 git clone https://github.com/Harsh-Jaiswal24/Yogotribe
 cd Yogotribe
  
