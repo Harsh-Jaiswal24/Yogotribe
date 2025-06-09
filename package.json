@@ -1,0 +1,14 @@
+{
+  "name": "yogotribetask",
+  "version": "1.0.0",
+  "description": "simple api endpoint to check number is prime or not",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Harsh Jaiswal",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
