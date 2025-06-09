@@ -18,17 +18,17 @@ This is a simple REST API built with **Node.js** and **Express** that checks whe
 ```bash
 git clone https://github.com/Harsh-Jaiswal24/Yogotribe
 cd Yogotribe
-
+ 
 ### 2. Install Dependencies
 
 - npm install
 
+--- 
 ## Run the server
 
 - node index.js
 
-3000
-
+--- 
 ## How to Use
 ### ✅ Endpoint
 - GET /is-prime?number=<number>
